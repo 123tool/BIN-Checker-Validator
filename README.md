@@ -1,14 +1,10 @@
-# 💳 SPY-E Financial Intel: BIN Checker & Luhn Validator
+## 💳 Intellegence Osint : BIN Checker & Luhn Validator
 
-![License](https://img.shields.io/badge/License-Pro-00f2ff?style=for-the-badge)
-![Category](https://img.shields.io/badge/Category-Fintech--Security-7000ff?style=for-the-badge)
-![Engine](https://img.shields.io/badge/Engine-Luhn--Algorithm-green?style=for-the-badge)
-
-**SPY-E Financial Intel** adalah alat analisis kartu kredit/debit tingkat lanjut yang dirancang untuk validasi integritas data dan identifikasi institusi perbankan. Menggunakan kombinasi algoritma matematika Luhn dan integrasi database BIN secara real-time.
+Alat analisis kartu kredit/debit tingkat lanjut yang dirancang untuk validasi integritas data dan identifikasi institusi perbankan. Menggunakan kombinasi algoritma matematika Luhn dan integrasi database BIN secara real-time.
 
 ---
 
-## ⚡ Core Intelligence Features
+## ⚡ Features
 
 - **Luhn Algorithm Check:** Melakukan validasi checksum matematis untuk menentukan apakah nomor kartu valid secara struktural atau sekadar angka acak.
 - **Deep BIN Lookup:** Mengidentifikasi data dari 6-8 digit pertama kartu, termasuk:
@@ -16,7 +12,6 @@
   - **Card Scheme:** Visa, Mastercard, Amex, dll.
   - **Card Type:** Debit, Credit, Prepaid, atau Platinum.
   - **Origin Country:** Negara asal kartu lengkap dengan emoji bendera.
-- **Professional Glassmorphism UI:** Antarmuka transparan modern yang responsif untuk penggunaan di perangkat mobile maupun desktop.
 - **No Database Needed:** Berjalan sepenuhnya di sisi klien (Client-side) dengan integrasi API publik yang stabil.
 
 ---
